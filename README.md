@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Max! 👋 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bruhjuice.bruhjuice)
 
+I'm currently studying computer science at the University of Southern California (USC). 
 <!--
 **bruhjuice/bruhjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
