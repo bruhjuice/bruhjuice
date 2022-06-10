@@ -5,7 +5,10 @@ I'm currently studying computer science at the University of Southern California
 
 I am currently working at: Lawrence Livermore National Labatory
 
-Goals for the next few months: Get AWS certified, train and summit Mt. Whitney 
+
+Short term goals: Get AWS certified, train for and summit Mt. Whitney!
+
+Feel free to contact me at maxl@usc.edu for any inqueries or just to chat!
 
 <!--
 **bruhjuice/bruhjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
