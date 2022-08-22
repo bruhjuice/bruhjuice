@@ -3,11 +3,11 @@
 
 I'm currently studying computer science at the University of Southern California (USC).
 
-I am currently working at: Lawrence Livermore National Labatory
+I just finished my internship at Lawrence Livermore National Labatory, and will be a course producer for CSCI 270: Introduction to Algorithms and Theory of  Computing in the upcoming semester.  
 
+Short term goals: Get AWS certified! 
 
-Short term goals: Get AWS certified, train for and summit Mt. Whitney!
-
+I'm currently searcing for internship opportunities for summer 2023. 
 Feel free to contact me at maxl@usc.edu for any inqueries or just to chat!
 
 <!--
