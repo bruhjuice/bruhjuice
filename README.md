@@ -1,5 +1,5 @@
 ### Hi there, I'm Max! 👋 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=bruhjuice.bruhjuice)
+![total visits](https://visitor-badge.laobi.icu/badge?page_id=bruhjuice.bruhjuice)
 
 I'm currently studying computer science at the University of Southern California (USC).
 
