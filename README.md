@@ -1,16 +1,18 @@
 ### Hi there, I'm Max (he/him)! 👋 
 ![total visits](https://visitor-badge.laobi.icu/badge?page_id=bruhjuice.bruhjuice)
 
-I'm currently studying computer science at the University of Southern California (USC).
+I'm currently a junior at the University of Southern California (USC) studying computer science.
 
 I just finished my software development internship at Lawrence Livermore National Labatory, and will be a course producer for CSCI 270: Introduction to Algorithms and Theory of Computing in the upcoming semester. 
 
-Some interests: 
+**Some interests:** 
 I love all things music and try to expose myself to as many different new sounds as possible, and am willing to give almost any album a shot. I also really enjoy the outdoors whether that be hiking, camping, or road trips.  
 
-Short term goals: Get AWS certified! Get better with React
+**Short term goals:** Get AWS certified! Get better with React
 
-I'm currently searching for internship opportunities for summer 2023. 
+
+
+**I'm currently searching for internship opportunities for summer 2023. ** 
 Feel free to contact me at maxl@usc.edu for any inqueries or just to chat!
 
 <!--
