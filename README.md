@@ -12,7 +12,7 @@ I love all things music and try to expose myself to as many different new sounds
 
 
 
-**I'm currently searching for internship opportunities for summer 2023. ** 
+**I'm currently searching for internship opportunities for summer 2023.** 
 Feel free to contact me at maxl@usc.edu for any inqueries or just to chat!
 
 <!--
