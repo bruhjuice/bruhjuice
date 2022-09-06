@@ -7,7 +7,7 @@ I just finished my software development internship at Lawrence Livermore Nationa
 
 **Some interests:** 
 
-I love all things music and try to expose myself to as many different new sounds as possible, and am willing to give almost any album a shot. I also really enjoy the outdoors whether that be hiking, camping, or road trips.  
+I love all things music and try to expose myself to as many different new sounds as possible, and am willing to give almost any album a shot. I also really enjoy the outdoors whether that be hiking, camping, or road trips. (my profile pic was taken at Joshua Tree National Park!) 
 
 **Short term goals:** 
 
