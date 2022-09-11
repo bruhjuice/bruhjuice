@@ -15,7 +15,7 @@ Get AWS certified! Get better with React
 
 
 
-**I'm currently searching for internship opportunities for summer 2023. Looking specifically for inclusive workplaces for personal reasons.** If this statement bothers you, I thank you for at least taking the time to check out my page 🙂🙂 
+**I'm currently searching for internship opportunities for summer 2023.**
 
 Feel free to contact me at maxl@usc.edu for any inqueries or just to chat!
 
