@@ -1,4 +1,4 @@
-### Hi there, I'm Max (he/him)! 👋 
+### Hi there, I'm Max! 👋 
 ![total visits](https://visitor-badge.laobi.icu/badge?page_id=bruhjuice.bruhjuice)
 
 I'm currently a junior at the University of Southern California (USC) studying computer science.
