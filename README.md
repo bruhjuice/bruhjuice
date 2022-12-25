@@ -15,8 +15,6 @@ Get AWS certified! Get better with React
 
 
 
-**I'm currently searching for internship opportunities for summer 2023.**
-
 Feel free to contact me at maxl@usc.edu for any inqueries or just to chat!
 
 <!--
